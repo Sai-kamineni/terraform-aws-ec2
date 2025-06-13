@@ -1,6 +1,6 @@
 # Terraform AWS EC2
 
-## Arguments
+### Arguments
 ami_id - (Mandatory), User must provide AMI ID. This is in String format
 
 instance_type - (Optional), default is t3.micro
